@@ -64,25 +64,6 @@
       <img src="https://img.shields.io/badge/IIS-%23121011.svg?style=for-the-badge&logo=Microsoft&logoColor=white" alt="IIS">
       <img src="https://img.shields.io/badge/MariaDB-%23003571.svg?style=for-the-badge&logo=MariaDB&logoColor=white" alt="MariaDB">
       <img src="https://img.shields.io/badge/Cockpit-%232E2E2E.svg?style=for-the-badge&logo=Cockpit&logoColor=white" alt="Cockpit">
-      
-
    </p>
-</div>
-
-# 📊 GitHub Stats:
-<div style="display: flex; align-items: center; background-color: #292b2c; padding: 15px; border-radius: 10px; margin: 20px;">
-    <div style="margin-right: 20px;">
-        <p align="center">  
-            <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Techvantage&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-        </p>
-    </div>
-    <div style="margin-right: 20px;">
-        <p align="center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil-Techvantage&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-        </p>
-    </div>
-    <p align="center"> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Techvantage&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="200" height="100" />
-    </p>
 </div>
 
