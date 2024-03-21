@@ -3,9 +3,9 @@
 <p align="center">
   <small>Hi there!</small> 
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand Emoji" width="50"> 
-  <small>I'm Akhil, an Intern System Administrator at Teechvantage.</small>
+  <small>I'm Akhil, an Intern System Administrator at Techvantage.</small>
   <br/>
-  🚀 Currently exploring the vast universe of DevOps tools.
+  🚀 Currently exploring the vast universe of IT Infrastructure
 </p>
 
 
