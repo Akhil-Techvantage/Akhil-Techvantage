@@ -12,7 +12,7 @@
 ## 🏆 GitHub Trophies
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
    <p align="center"> 
-      <img src="https://github-profile-trophy.vercel.app/?username=akhil2099&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Akhil-Techvantage&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
    </p>
 </div>
 
@@ -73,16 +73,16 @@
 <div style="display: flex; align-items: center; background-color: #292b2c; padding: 15px; border-radius: 10px; margin: 20px;">
     <div style="margin-right: 20px;">
         <p align="center">  
-            <img src="https://github-readme-stats.vercel.app/api?username=akhil2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+            <img src="https://github-readme-stats.vercel.app/api?username=Akhil-Techvantage&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
         </p>
     </div>
     <div style="margin-right: 20px;">
         <p align="center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil2099&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil-Techvantage&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
         </p>
     </div>
     <p align="center"> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil2099&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="200" height="100" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-Techvantage&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="200" height="100" />
     </p>
 </div>
 
